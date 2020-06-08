@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>janders223</title>
+    <link>http://janders223.com/</link>
+    <description>Recent content on janders223</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Jun 2020 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://janders223.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test Post</title>
+      <link>http://janders223.com/posts/test-post/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 -0400</pubDate>
+      
+      <guid>http://janders223.com/posts/test-post/</guid>
+      <description>This is a test post to see how well this works.
+What if I add some code&amp;hellip;
+ripgrep something </description>
+    </item>
+    
+  </channel>
+</rss>
