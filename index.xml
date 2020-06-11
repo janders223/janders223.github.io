@@ -6,10 +6,21 @@
     <description>Recent content on janders223</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jun 2020 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="http://janders223.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Craziest Terraform for_each I&#39;ve Ever Written</title>
+      <link>http://janders223.com/posts/terraform-for-each/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 -0400</pubDate>
+      
+      <guid>http://janders223.com/posts/terraform-for-each/</guid>
+      <description>Today I set out on a mission to refactor some code that has been bothering me for some time. The verbosity of terraform code often often bothers me and I always look for opportunities to DRY up my code. The particular code of interest here is deploying multiple instances of virtual machines into multiple resource groups in Azure.
+The first iteration looked something similar to the following.
+resource &amp;#34;azurerm_linux_virtual_machine&amp;#34; &amp;#34;myvm&amp;#34; { count = var.</description>
+    </item>
     
     <item>
       <title>Test Post</title>
