@@ -6,10 +6,19 @@
     <description>Recent content on janders223</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jun 2020 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2020 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="http://janders223.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Loaf of The Week</title>
+      <link>http://janders223.com/posts/loaf-19-jun-20/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 -0400</pubDate>
+      
+      <guid>http://janders223.com/posts/loaf-19-jun-20/</guid>
+      <description>Whole Wheat Flour = 50% Buckwheat Flour = 5% Oat Flour = 5% Bread Flour = 40% Water = 75% Salt = 2% Yeast = 1.5% Honey = 10%  Saw a video where someone mentioned Buckwheat Flour and I wanted to try a loaf. I also did an egg wash on these which I usually don&amp;rsquo;t do. The crumb is very open, moist and flavorful. The crust is amazingly crisp and the loaf is full of flavor.</description>
+    </item>
     
     <item>
       <title>The Craziest Terraform for_each I&#39;ve Ever Written</title>
